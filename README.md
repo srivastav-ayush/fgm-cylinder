@@ -17,3 +17,5 @@ parts can increase their pressure handling capacity and improve their functional
 <br><br>
 Keywords: thick cylinder, isotropic material, functionally graded materials, analytical
 modelling, finite element analysis.
+
+![Image of Yaktocat](https://github.com/srivastav-ayush/hyperelastic-spherical-actuator/blob/main/FEM%20Simulation.jpg)
