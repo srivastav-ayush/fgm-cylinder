@@ -18,5 +18,5 @@ parts can increase their pressure handling capacity and improve their functional
 Keywords: thick cylinder, isotropic material, functionally graded materials, analytical
 modelling, finite element analysis.
 
-
+<br>
 ![Image of Yaktocat](https://github.com/srivastav-ayush/fgm-cylinder/blob/main/fgm_cyl.jpg)
