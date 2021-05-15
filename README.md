@@ -13,6 +13,6 @@ to be zero. Results shows that the property of FGMs has a significant influence 
 distributions – reducing the overall radial stress and completely changing the distribution of
 circumferential stress as compared to the stress distributions in an isotropic cylinder under same
 load. Thus, using the exclusively designed functionally graded materials for manufacturing of
-parts can increase their pressure handling capacity and improve their functionality.
+parts can increase their pressure handling capacity and improve their functionality.<br><br>
 Keywords: thick cylinder, isotropic material, functionally graded materials, analytical
 modelling, finite element analysis.
